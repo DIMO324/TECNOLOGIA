@@ -24,5 +24,9 @@
 		3BD361F571CA80B5: 1733007464138L
 	}
 	claimed_rewards: { }
-	player_data: { }
+	player_data: {
+		d6d62a3185b93bc08e69375ce4483864: {
+			chapter_pinned: 1b
+		}
+	}
 }

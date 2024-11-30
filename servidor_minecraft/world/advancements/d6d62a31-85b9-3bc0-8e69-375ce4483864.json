@@ -59,6 +59,20 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_mutton": "2024-11-30 23:24:54 +0000",
+      "cooked_beef": "2024-11-30 23:22:14 +0000",
+      "cooked_chicken": "2024-11-30 23:29:03 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "flint_knife": "2024-11-30 23:26:36 +0000"
+    },
+    "done": true
+  },
   "toms_storage:unlock_glowstone": {
     "criteria": {
       "inv_changed-glowstone": "2024-11-30 22:57:43 +0000"
@@ -71,14 +85,36 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-11-30 23:23:08 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:regions_explored": {
     "criteria": {
       "pine_taiga": "2024-11-30 23:02:51 +0000",
       "willow_forest": "2024-11-30 23:01:54 +0000",
+      "grassy_beach": "2024-11-30 23:24:04 +0000",
+      "towering_cliffs": "2024-11-30 23:25:39 +0000",
       "temperate_grove": "2024-11-30 23:01:54 +0000",
       "lupine_plains": "2024-11-30 23:19:52 +0000"
     },
     "done": false
+  },
+  "extradelight:ingredients": {
+    "criteria": {
+      "FLOUR": "2024-11-30 23:26:34 +0000",
+      "BREAD_SLICE": "2024-11-30 23:26:36 +0000",
+      "SLICED_TOMATO": "2024-11-30 23:26:36 +0000"
+    },
+    "done": false
+  },
+  "extradelight:flour": {
+    "criteria": {
+      "flour": "2024-11-30 23:26:34 +0000"
+    },
+    "done": true
   },
   "decoration_delight:decoration_101_advancement": {
     "criteria": {
@@ -99,6 +135,18 @@
       "slept_in_bed": "2024-11-30 23:20:46 +0000"
     },
     "done": true
+  },
+  "extradelight:food": {
+    "criteria": {
+      "food": "2024-11-30 23:22:14 +0000"
+    },
+    "done": true
+  },
+  "extradelight:desert": {
+    "criteria": {
+      "GLOW_BERRY_POPSICLE": "2024-11-30 23:26:36 +0000"
+    },
+    "done": false
   },
   "toms_storage:unlock_chest": {
     "criteria": {
@@ -124,6 +172,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-11-30 23:22:14 +0000"
+    },
+    "done": true
+  },
   "vintageimprovements:root": {
     "criteria": {
       "0": "2024-11-30 22:57:43 +0000"
@@ -137,9 +191,16 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-11-30 23:25:08 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:got_wood": {
     "criteria": {
-      "magnolia_log": "2024-11-30 23:08:20 +0000"
+      "magnolia_log": "2024-11-30 23:08:20 +0000",
+      "maple_log": "2024-11-30 23:22:22 +0000"
     },
     "done": false
   },
@@ -153,8 +214,18 @@
     "criteria": {
       "pine_taiga": "2024-11-30 23:02:51 +0000",
       "willow_forest": "2024-11-30 23:01:54 +0000",
+      "grassy_beach": "2024-11-30 23:24:04 +0000",
+      "towering_cliffs": "2024-11-30 23:25:39 +0000",
       "temperate_grove": "2024-11-30 23:01:54 +0000",
       "lupine_plains": "2024-11-30 23:19:52 +0000"
+    },
+    "done": false
+  },
+  "extradelight:meals": {
+    "criteria": {
+      "FRIED_MUSHROOMS": "2024-11-30 23:26:36 +0000",
+      "SALAD": "2024-11-30 23:26:36 +0000",
+      "COOKED_PASTA": "2024-11-30 23:26:36 +0000"
     },
     "done": false
   },
@@ -169,6 +240,12 @@
       "the_search_begins_advancement": "2024-11-30 22:57:32 +0000"
     },
     "done": true
+  },
+  "extradelight:feasts": {
+    "criteria": {
+      "pot_roast": "2024-11-30 23:26:36 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3120
 }

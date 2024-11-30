@@ -4535,3 +4535,10 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [30Nov2024 23:21:38.920] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
 [30Nov2024 23:22:14.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sdim_a has made the advancement [A Small Smackerel]
 [30Nov2024 23:23:08.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sdim_a has made the advancement [Stone Age]
+[30Nov2024 23:25:08.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sdim_a has made the advancement [Getting an Upgrade]
+[30Nov2024 23:25:20.145] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3284, y=72, z=2305} BlockPos{x=-3284, y=71, z=2304}
+[30Nov2024 23:26:34.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sdim_a has made the advancement [A Little Less Ruffage]
+[30Nov2024 23:26:36.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sdim_a has made the advancement [Hunt and Gather]
+[30Nov2024 23:26:59.476] [Worker-Main-4/WARN] [ModernFix/]: The namespace betterdeserttemples contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[30Nov2024 23:31:41.765] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: 10991 Ticks
+[30Nov2024 23:33:34.681] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
