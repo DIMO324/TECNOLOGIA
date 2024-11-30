@@ -1,6 +1,57 @@
 
 [types]
 
+	[types.wood_type]
+
+		[types.wood_type.quark]
+			bamboo = true
+			azalea = true
+			ancient = true
+			blossom = true
+
+		[types.wood_type.goodending]
+			muddy_oak = true
+			cypress = true
+
+		[types.wood_type.garnished]
+			sepia = true
+			nut = true
+
+		[types.wood_type.cataclysm]
+			chorus = true
+
+		[types.wood_type.regions_unexplored]
+			alpha = true
+			baobab = true
+			blackwood = true
+			blue_bioshroom = true
+			brimwood = true
+			cobalt = true
+			cypress = true
+			dead = true
+			eucalyptus = true
+			green_bioshroom = true
+			joshua = true
+			kapok = true
+			larch = true
+			magnolia = true
+			maple = true
+			mauve = true
+			palm = true
+			pine = true
+			pink_bioshroom = true
+			redwood = true
+			socotra = true
+			willow = true
+			yellow_bioshroom = true
+
+		[types.wood_type.endlessbiomes]
+			penumbra = true
+			twisted = true
+
+		[types.wood_type.extradelight]
+			cinnamon = true
+
 	[types.leaves_type]
 
 		[types.leaves_type.regions_unexplored]
@@ -61,67 +112,7 @@
 		[types.leaves_type.extradelight]
 			cinnamon = true
 
-	[types.wood_type]
-
-		[types.wood_type.quark]
-			bamboo = true
-			azalea = true
-			ancient = true
-			blossom = true
-
-		[types.wood_type.goodending]
-			muddy_oak = true
-			cypress = true
-
-		[types.wood_type.garnished]
-			sepia = true
-			nut = true
-
-		[types.wood_type.cataclysm]
-			chorus = true
-
-		[types.wood_type.regions_unexplored]
-			alpha = true
-			baobab = true
-			blackwood = true
-			blue_bioshroom = true
-			brimwood = true
-			cobalt = true
-			cypress = true
-			dead = true
-			eucalyptus = true
-			green_bioshroom = true
-			joshua = true
-			kapok = true
-			larch = true
-			magnolia = true
-			maple = true
-			mauve = true
-			palm = true
-			pine = true
-			pink_bioshroom = true
-			redwood = true
-			socotra = true
-			willow = true
-			yellow_bioshroom = true
-
-		[types.wood_type.endlessbiomes]
-			penumbra = true
-			twisted = true
-
-		[types.wood_type.extradelight]
-			cinnamon = true
-
 [entries]
-
-	[entries.leaves_type]
-
-		[entries.leaves_type.regions_unexplored]
-			shrub = true
-
-		[entries.leaves_type.quark]
-			hedge = true
-			leaf_carpet = true
 
 	[entries.wood_type]
 
@@ -296,4 +287,13 @@
 		[entries.wood_type.create]
 			window_pane = true
 			window = true
+
+	[entries.leaves_type]
+
+		[entries.leaves_type.regions_unexplored]
+			shrub = true
+
+		[entries.leaves_type.quark]
+			hedge = true
+			leaf_carpet = true
 

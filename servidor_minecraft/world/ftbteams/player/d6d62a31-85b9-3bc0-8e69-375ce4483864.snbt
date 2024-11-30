@@ -1,0 +1,17 @@
+{
+	id: "d6d62a31-85b9-3bc0-8e69-375ce4483864"
+	type: "player"
+	player_name: "Sdim_a"
+	ranks: {
+		d6d62a31-85b9-3bc0-8e69-375ce4483864: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Sdim_a"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFCD"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
