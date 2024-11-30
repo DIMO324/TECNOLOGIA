@@ -4542,3 +4542,22 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [30Nov2024 23:26:59.476] [Worker-Main-4/WARN] [ModernFix/]: The namespace betterdeserttemples contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
 [30Nov2024 23:31:41.765] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: 10991 Ticks
 [30Nov2024 23:33:34.681] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
+[30Nov2024 23:35:23.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sdim_a has made the advancement [Acquire Hardware]
+[30Nov2024 23:35:56.009] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[30Nov2024 23:37:08.069] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/api/event/SimpleHarvestEvent$Source
+[30Nov2024 23:39:59.265] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sdim_a lost connection: Timed out
+[30Nov2024 23:39:59.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sdim_a left the game
+[30Nov2024 23:39:59.271] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d6d62a31-85b9-3bc0-8e69-375ce4483864
+[30Nov2024 23:39:59.368] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30Nov2024 23:41:16.070] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7b0620ab
+[30Nov2024 23:41:16.082] [Server thread/INFO] [jecalculation/]: Failed to load default records at /workspaces/TECNOLOGIA/servidor_minecraft/config/jecalculation/records.json.
+[30Nov2024 23:41:16.084] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: createbigcannons:big_cartridge_filling_deployer removed now.
+[30Nov2024 23:41:16.086] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: createbigcannons:cartridge_assembly_deployer removed now.
+[30Nov2024 23:41:16.096] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: createbigcannons:big_cartridge_filling_deployer removed now.
+[30Nov2024 23:41:16.097] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: createbigcannons:cartridge_assembly_deployer removed now.
+[30Nov2024 23:41:16.106] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sdim_a[/[0:0:0:0:0:0:0:1%0]:44180] logged in with entity id 5840 at (-3259.300000011921, 79.0, 2369.261465995829)
+[30Nov2024 23:41:16.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sdim_a joined the game
+[30Nov2024 23:41:16.175] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d6d62a31-85b9-3bc0-8e69-375ce4483864
+[30Nov2024 23:41:16.182] [Server thread/INFO] [Jade/]: Syncing config to Sdim_a (d6d62a31-85b9-3bc0-8e69-375ce4483864)
+[30Nov2024 23:41:20.020] [Server thread/INFO] [ping-wheel/]: Channel update: Sdim_a -> default
+[30Nov2024 23:42:17.516] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: 11286 Ticks
