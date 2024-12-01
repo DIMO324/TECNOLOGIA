@@ -10,3 +10,34 @@
 [01Dec2024 00:41:52.964] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2404ms or 48 ticks behind
 [01Dec2024 00:41:53.792] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/axolotl/Axolotl$Variant
 [01Dec2024 00:45:19.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sdim_a has made the advancement [The Parrots and the Bats]
+[01Dec2024 00:48:07.215] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: 10821 Ticks
+[01Dec2024 00:51:07.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sdim_a has made the advancement [Baker and Candlestick maker.]
+[01Dec2024 00:51:45.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sdim_a has made the advancement [Where's the Beef?]
+[01Dec2024 00:51:57.513] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[01Dec2024 00:52:02.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sdim_a has made the advancement [Me Thinks it's Mutton-tastic]
+[01Dec2024 00:52:03.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sdim_a has made the advancement [You Can't Hide]
+[01Dec2024 00:52:03.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sdim_a has made the advancement [Blood On Your Hands]
+[01Dec2024 00:52:07.518] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[01Dec2024 00:54:53.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sdim_a has made the advancement [On the hook]
+[01Dec2024 00:54:53.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sdim_a has made the advancement [Chopping Block]
+[01Dec2024 00:56:34.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Sdim_a: Location (-3267.4656661748886, 77.40030270814896, 2361.0) too far away from hit block BlockPos{x=-3268, y=78, z=2361}.
+[01Dec2024 01:00:27.118] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: 9203 Ticks
+[01Dec2024 01:00:33.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sdim_a has made the advancement [Craft a Skinning Knife]
+[01Dec2024 01:03:40.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sdim_a has made the advancement [Skeleton's Nightmare.]
+[01Dec2024 01:03:47.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Sdim_a: Location (-3267.7133019566536, 77.48154747486115, 2361.0) too far away from hit block BlockPos{x=-3268, y=78, z=2361}.
+[01Dec2024 01:03:47.348] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Sdim_a: Location (-3267.7206984758377, 77.45391094684601, 2361.0) too far away from hit block BlockPos{x=-3268, y=78, z=2361}.
+[01Dec2024 01:03:47.543] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Sdim_a: Location (-3267.7240471839905, 77.4485564827919, 2361.0) too far away from hit block BlockPos{x=-3268, y=78, z=2361}.
+[01Dec2024 01:03:47.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Sdim_a: Location (-3267.7240471839905, 77.4485564827919, 2361.0) too far away from hit block BlockPos{x=-3268, y=78, z=2361}.
+[01Dec2024 01:03:47.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Sdim_a: Location (-3267.7240471839905, 77.4485564827919, 2361.0) too far away from hit block BlockPos{x=-3268, y=78, z=2361}.
+[01Dec2024 01:04:11.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sdim_a has made the advancement [You've got guts kid.]
+[01Dec2024 01:04:16.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Sdim_a: Location (-3267.7139400839806, 77.35722160339355, 2361.0) too far away from hit block BlockPos{x=-3268, y=78, z=2361}.
+[01Dec2024 01:04:16.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Sdim_a: Location (-3267.7183688879013, 77.41205734014511, 2361.0) too far away from hit block BlockPos{x=-3268, y=78, z=2361}.
+[01Dec2024 01:04:16.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Sdim_a: Location (-3267.7183688879013, 77.41205734014511, 2361.0) too far away from hit block BlockPos{x=-3268, y=78, z=2361}.
+[01Dec2024 01:11:09.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sdim_a has made the advancement [Ya Filthy Animal]
+[01Dec2024 01:11:09.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sdim_a has made the advancement [Stink, Stank, Stunk]
+[01Dec2024 01:11:13.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sdim_a has made the advancement [For the Blood God!]
+[01Dec2024 01:11:28.914] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: 10765 Ticks
+[01Dec2024 01:12:43.456] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Sdim_a: Location (-3267.5705074965954, 77.48682260513306, 2361.0) too far away from hit block BlockPos{x=-3268, y=78, z=2361}.
+[01Dec2024 01:12:44.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Sdim_a: Location (-3267.525272756815, 77.32499265670776, 2361.0) too far away from hit block BlockPos{x=-3268, y=78, z=2361}.
+[01Dec2024 01:12:44.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Sdim_a: Location (-3267.525272756815, 77.32499265670776, 2361.0) too far away from hit block BlockPos{x=-3268, y=78, z=2361}.
+[01Dec2024 01:15:17.659] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Sdim_a: Location (-3267.6495294868946, 77.49837666749954, 2361.0) too far away from hit block BlockPos{x=-3268, y=78, z=2361}.

@@ -5,15 +5,15 @@
     },
     "done": true
   },
-  "farmersdelight:main/root": {
-    "criteria": {
-      "seeds": "2024-11-30 22:57:43 +0000"
-    },
-    "done": true
-  },
   "betterdungeons:root": {
     "criteria": {
       "always": "2024-11-30 22:57:32 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:butcherknife": {
+    "criteria": {
+      "butcherknife": "2024-12-01 00:51:07 +0000"
     },
     "done": true
   },
@@ -35,17 +35,16 @@
     },
     "done": true
   },
-  "cataclysm:root": {
+  "butchercraft:hook": {
     "criteria": {
-      "custom_test_name": "2024-11-30 22:57:32 +0000"
+      "hook": "2024-12-01 00:54:53 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/kill_all_mobs": {
+  "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:skeleton": "2024-11-30 23:48:16 +0000",
-      "minecraft:creeper": "2024-11-30 23:45:16 +0000",
-      "minecraft:zombie": "2024-11-30 23:20:28 +0000"
+      "minecraft:cow": "2024-12-01 00:45:20 +0000",
+      "minecraft:sheep": "2024-12-01 00:45:19 +0000"
     },
     "done": false
   },
@@ -61,26 +60,15 @@
     },
     "done": true
   },
-  "create_connected:root": {
+  "butchercraft:cow": {
     "criteria": {
-      "0": "2024-11-30 22:57:43 +0000"
+      "cow": "2024-12-01 00:51:45 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
+  "create_connected:root": {
     "criteria": {
-      "cooked_porkchop": "2024-11-30 23:52:30 +0000",
-      "cooked_mutton": "2024-11-30 23:24:54 +0000",
-      "cooked_beef": "2024-11-30 23:22:14 +0000",
-      "bread": "2024-11-30 23:37:21 +0000",
-      "rotten_flesh": "2024-11-30 23:48:41 +0000",
-      "cooked_chicken": "2024-11-30 23:29:03 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:main/craft_knife": {
-    "criteria": {
-      "flint_knife": "2024-11-30 23:26:36 +0000"
+      "0": "2024-11-30 22:57:43 +0000"
     },
     "done": true
   },
@@ -102,16 +90,156 @@
     },
     "done": true
   },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2024-11-30 22:57:44 +0000",
+      "minecraft:meadow": "2024-11-30 22:58:06 +0000",
+      "minecraft:plains": "2024-11-30 22:58:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-11-30 23:20:46 +0000"
+    },
+    "done": true
+  },
+  "extradelight:food": {
+    "criteria": {
+      "food": "2024-11-30 23:22:14 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:bonesaw": {
+    "criteria": {
+      "bonesaw": "2024-12-01 01:03:40 +0000"
+    },
+    "done": true
+  },
+  "extradelight:desert": {
+    "criteria": {
+      "GLOW_BERRY_POPSICLE": "2024-11-30 23:26:36 +0000"
+    },
+    "done": false
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2024-11-30 22:57:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-11-30 23:22:14 +0000"
+    },
+    "done": true
+  },
+  "vintageimprovements:root": {
+    "criteria": {
+      "0": "2024-11-30 22:57:43 +0000"
+    },
+    "done": true
+  },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2024-11-30 23:35:23 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2024-11-30 22:57:43 +0000",
+      "inv_changed-diamond": "2024-11-30 22:57:43 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "magnolia_log": "2024-11-30 23:08:20 +0000",
+      "pine_log": "2024-12-01 00:31:57 +0000",
+      "maple_log": "2024-11-30 23:22:22 +0000"
+    },
+    "done": false
+  },
+  "butchercraft:butcherblock": {
+    "criteria": {
+      "butcherblock": "2024-12-01 00:54:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-11-30 23:01:22 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:sheep": {
+    "criteria": {
+      "sheep": "2024-12-01 00:52:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-11-30 22:57:43 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-11-30 22:57:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2024-11-30 23:48:16 +0000",
+      "minecraft:creeper": "2024-11-30 23:45:16 +0000",
+      "minecraft:zombie": "2024-11-30 23:20:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-01 00:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2024-11-30 23:52:30 +0000",
+      "cooked_mutton": "2024-11-30 23:24:54 +0000",
+      "cooked_beef": "2024-11-30 23:22:14 +0000",
+      "poisonous_potato": "2024-12-01 01:07:01 +0000",
+      "bread": "2024-11-30 23:37:21 +0000",
+      "rotten_flesh": "2024-11-30 23:48:41 +0000",
+      "cooked_chicken": "2024-11-30 23:29:03 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "flint_knife": "2024-11-30 23:26:36 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:regions_explored": {
     "criteria": {
       "pine_taiga": "2024-11-30 23:02:51 +0000",
       "willow_forest": "2024-11-30 23:01:54 +0000",
       "grassy_beach": "2024-11-30 23:24:04 +0000",
+      "rocky_meadow": "2024-12-01 00:41:41 +0000",
       "towering_cliffs": "2024-11-30 23:25:39 +0000",
       "temperate_grove": "2024-11-30 23:01:54 +0000",
       "lupine_plains": "2024-11-30 23:19:52 +0000"
     },
     "done": false
+  },
+  "butchercraft:gutknife": {
+    "criteria": {
+      "gutknife": "2024-12-01 01:04:11 +0000"
+    },
+    "done": true
   },
   "extradelight:ingredients": {
     "criteria": {
@@ -139,32 +267,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:forest": "2024-11-30 22:57:44 +0000",
-      "minecraft:meadow": "2024-11-30 22:58:06 +0000",
-      "minecraft:plains": "2024-11-30 22:58:50 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2024-11-30 23:20:46 +0000"
-    },
-    "done": true
-  },
-  "extradelight:food": {
-    "criteria": {
-      "food": "2024-11-30 23:22:14 +0000"
-    },
-    "done": true
-  },
-  "extradelight:desert": {
-    "criteria": {
-      "GLOW_BERRY_POPSICLE": "2024-11-30 23:26:36 +0000"
-    },
-    "done": false
-  },
   "toms_storage:unlock_chest": {
     "criteria": {
       "inv_changed-chest": "2024-11-30 22:57:43 +0000"
@@ -183,40 +285,9 @@
     },
     "done": true
   },
-  "toms_storage:unlock_netherite": {
-    "criteria": {
-      "inv_changed-netherite": "2024-11-30 22:57:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2024-11-30 23:22:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-01 00:24:04 +0000"
-    },
-    "done": true
-  },
-  "vintageimprovements:root": {
-    "criteria": {
-      "0": "2024-11-30 22:57:43 +0000"
-    },
-    "done": true
-  },
-  "immersive_aircraft:misc/aircraftery": {
-    "criteria": {
-      "has_item": "2024-11-30 23:35:23 +0000"
-    },
-    "done": true
-  },
-  "toms_storage:unlock_dia_pearl": {
-    "criteria": {
-      "inv_changed-ender_pearl": "2024-11-30 22:57:43 +0000",
-      "inv_changed-diamond": "2024-11-30 22:57:43 +0000"
     },
     "done": true
   },
@@ -225,14 +296,6 @@
       "stone_pickaxe": "2024-11-30 23:25:08 +0000"
     },
     "done": true
-  },
-  "regions_unexplored:got_wood": {
-    "criteria": {
-      "magnolia_log": "2024-11-30 23:08:20 +0000",
-      "pine_log": "2024-12-01 00:31:57 +0000",
-      "maple_log": "2024-11-30 23:22:22 +0000"
-    },
-    "done": false
   },
   "minecraft:story/root": {
     "criteria": {
@@ -245,11 +308,18 @@
       "pine_taiga": "2024-11-30 23:02:51 +0000",
       "willow_forest": "2024-11-30 23:01:54 +0000",
       "grassy_beach": "2024-11-30 23:24:04 +0000",
+      "rocky_meadow": "2024-12-01 00:41:41 +0000",
       "towering_cliffs": "2024-11-30 23:25:39 +0000",
       "temperate_grove": "2024-11-30 23:01:54 +0000",
       "lupine_plains": "2024-11-30 23:19:52 +0000"
     },
     "done": false
+  },
+  "butchercraft:root": {
+    "criteria": {
+      "tick": "2024-12-01 00:51:07 +0000"
+    },
+    "done": true
   },
   "extradelight:meals": {
     "criteria": {
@@ -265,9 +335,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/root": {
+  "butchercraft:skinningknife": {
     "criteria": {
-      "killed_something": "2024-11-30 23:01:22 +0000"
+      "skinningknife": "2024-12-01 01:00:33 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:bloody": {
+    "criteria": {
+      "bloody": "2024-12-01 00:52:03 +0000"
     },
     "done": true
   },
@@ -282,6 +358,12 @@
       "pot_roast": "2024-11-30 23:26:36 +0000"
     },
     "done": false
+  },
+  "butchercraft:trail": {
+    "criteria": {
+      "trail": "2024-12-01 00:52:03 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3120
 }
