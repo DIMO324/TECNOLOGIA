@@ -69,6 +69,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-11-30 23:52:30 +0000",
       "cooked_mutton": "2024-11-30 23:24:54 +0000",
       "cooked_beef": "2024-11-30 23:22:14 +0000",
       "bread": "2024-11-30 23:37:21 +0000",
@@ -129,6 +130,12 @@
   "decoration_delight:decoration_101_advancement": {
     "criteria": {
       "decoration_101_advancement": "2024-11-30 22:57:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2024-11-30 23:57:18 +0000"
     },
     "done": true
   },
