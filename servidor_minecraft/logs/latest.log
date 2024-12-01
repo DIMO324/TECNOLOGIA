@@ -2,3 +2,11 @@
 [01Dec2024 00:15:15.414] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: 10238 Ticks
 [01Dec2024 00:24:04.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sdim_a has made the advancement [Isn't It Iron Pick]
 [01Dec2024 00:26:03.015] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: 11049 Ticks
+[01Dec2024 00:37:05.816] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: 10745 Ticks
+[01Dec2024 00:41:41.892] [Worker-Main-13/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Variant
+[01Dec2024 00:41:41.895] [Worker-Main-13/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[01Dec2024 00:41:48.885] [pool-4-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[01Dec2024 00:41:50.724] [Worker-Main-13/WARN] [ModernFix/]: The namespace idas contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[01Dec2024 00:41:52.964] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2404ms or 48 ticks behind
+[01Dec2024 00:41:53.792] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/axolotl/Axolotl$Variant
+[01Dec2024 00:45:19.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sdim_a has made the advancement [The Parrots and the Bats]
