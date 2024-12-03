@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "butchercraft:hands": {
+    "criteria": {
+      "hands": "2024-12-01 01:11:09 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:root": {
     "criteria": {
       "always": "2024-11-30 22:57:32 +0000"
@@ -51,6 +57,12 @@
   "takesapillage:root": {
     "criteria": {
       "always": "2024-11-30 22:57:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2024-12-01 01:21:47 +0000"
     },
     "done": true
   },
@@ -116,6 +128,12 @@
     },
     "done": true
   },
+  "butchercraft:stink": {
+    "criteria": {
+      "stink": "2024-12-01 01:11:09 +0000"
+    },
+    "done": true
+  },
   "extradelight:desert": {
     "criteria": {
       "GLOW_BERRY_POPSICLE": "2024-11-30 23:26:36 +0000"
@@ -156,6 +174,7 @@
   "regions_unexplored:got_wood": {
     "criteria": {
       "magnolia_log": "2024-11-30 23:08:20 +0000",
+      "willow_log": "2024-12-01 01:23:24 +0000",
       "pine_log": "2024-12-01 00:31:57 +0000",
       "maple_log": "2024-11-30 23:22:22 +0000"
     },
@@ -288,6 +307,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-01 00:24:04 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:blood": {
+    "criteria": {
+      "blood": "2024-12-01 01:11:13 +0000"
     },
     "done": true
   },
