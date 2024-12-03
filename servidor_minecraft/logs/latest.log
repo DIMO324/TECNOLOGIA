@@ -4299,3 +4299,11 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [03Dec2024 02:38:16.956] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
 [03Dec2024 02:39:26.640] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/TropicalFish$Pattern
 [03Dec2024 02:41:13.706] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[03Dec2024 02:44:17.347] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[03Dec2024 02:44:24.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sdim_a was slain by Murmur
+[03Dec2024 02:44:40.196] [Server thread/INFO] [jecalculation/]: Failed to load default records at /workspaces/TECNOLOGIA/servidor_minecraft/config/jecalculation/records.json.
+[03Dec2024 02:45:02.007] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[03Dec2024 02:45:07.046] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: 7132 Ticks
+[03Dec2024 02:45:52.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sdim_a fell from a high place
+[03Dec2024 02:49:40.194] [Server thread/INFO] [jecalculation/]: Failed to load default records at /workspaces/TECNOLOGIA/servidor_minecraft/config/jecalculation/records.json.
+[03Dec2024 02:50:21.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sdim_a has made the advancement [Diamonds!]

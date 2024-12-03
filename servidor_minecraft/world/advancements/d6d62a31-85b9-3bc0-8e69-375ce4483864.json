@@ -214,6 +214,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-11-30 23:48:16 +0000",
       "minecraft:creeper": "2024-11-30 23:45:16 +0000",
+      "minecraft:silverfish": "2024-12-03 02:41:13 +0000",
       "minecraft:zombie": "2024-11-30 23:20:28 +0000"
     },
     "done": false
