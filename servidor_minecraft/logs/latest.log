@@ -4307,3 +4307,10 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [05Dec2024 00:26:33.355] [Server thread/INFO] [jecalculation/]: Failed to load default records at /workspaces/TECNOLOGIA/servidor_minecraft/config/jecalculation/records.json.
 [05Dec2024 00:27:13.626] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
 [05Dec2024 00:28:28.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sdim_a was doomed to fall by Skeleton
+[05Dec2024 00:31:33.359] [Server thread/INFO] [jecalculation/]: Failed to load default records at /workspaces/TECNOLOGIA/servidor_minecraft/config/jecalculation/records.json.
+[05Dec2024 00:33:51.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sdim_a was slain by Zombie
+[05Dec2024 00:35:09.406] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[05Dec2024 00:36:23.355] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: 10312 Ticks
+[05Dec2024 00:36:33.357] [Server thread/INFO] [jecalculation/]: Failed to load default records at /workspaces/TECNOLOGIA/servidor_minecraft/config/jecalculation/records.json.
+[05Dec2024 00:36:54.454] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mechanical Engineer'/43, l='ServerLevel[Survival tecnico 1.19.2]', x=-3291.70, y=67.00, z=2280.50] died, message: 'Mechanical Engineer was slain by Zombie'
+[05Dec2024 00:38:06.550] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/TropicalFish$Pattern
