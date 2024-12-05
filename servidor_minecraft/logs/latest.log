@@ -4316,3 +4316,4 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [05Dec2024 00:38:06.550] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/TropicalFish$Pattern
 [05Dec2024 00:49:13.204] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mechanical Engineer'/9, l='ServerLevel[Survival tecnico 1.19.2]', x=-3276.90, y=73.00, z=2318.70] died, message: 'Mechanical Engineer was slain by Zombie'
 [05Dec2024 00:49:46.559] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: 7937 Ticks
+[05Dec2024 00:57:50.344] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/api/event/SimpleHarvestEvent$Source
