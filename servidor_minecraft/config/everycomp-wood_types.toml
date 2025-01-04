@@ -52,6 +52,9 @@
 		[types.wood_type.extradelight]
 			cinnamon = true
 
+		[types.wood_type.iceandfire]
+			dreadwood = true
+
 	[types.leaves_type]
 
 		[types.leaves_type.regions_unexplored]
