@@ -5546,3 +5546,68 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [04Jan2025 01:16:39.224] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/chunk/LevelChunk$EntityCreationType
 [04Jan2025 01:16:39.906] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/rae/creatingspace/init/TagsInit$CustomBiomeTags
 [04Jan2025 01:17:08.307] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ClientboundPlayerInfoPacket$Action
+[04Jan2025 01:27:37.310] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/ConnectionProtocol
+[04Jan2025 01:27:37.328] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ClientboundCustomChatCompletionsPacket$Action
+[04Jan2025 01:27:37.352] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ClientboundRecipePacket$State
+[04Jan2025 01:27:37.360] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/ServerScoreboard$Method
+[04Jan2025 01:27:37.367] [Netty Epoll Server IO #2/INFO] [mixin/]: Mixing server.MixinServerboundChatPacket from nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatPacket
+[04Jan2025 01:27:37.369] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundClientCommandPacket$Action
+[04Jan2025 01:27:37.370] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/inventory/ClickType
+[04Jan2025 01:27:37.372] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundInteractPacket$ActionType
+[04Jan2025 01:27:37.376] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundPlayerActionPacket$Action
+[04Jan2025 01:27:37.377] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundPlayerCommandPacket$Action
+[04Jan2025 01:27:37.379] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundResourcePackPacket$Action
+[04Jan2025 01:27:37.380] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundSeenAdvancementsPacket$Action
+[04Jan2025 01:27:37.382] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/CommandBlockEntity$Mode
+[04Jan2025 01:27:37.385] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/StructureBlockEntity$UpdateType
+[04Jan2025 01:27:37.404] [Netty Epoll Server IO #2/INFO] [mixin/]: Mixing common.MixinServerStatusSerializer from nochatreports.mixins.json into net.minecraft.network.protocol.status.ServerStatus$Serializer
+[04Jan2025 01:27:37.415] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting shadow/kyori/adventure/text/serializer/json/JSONOptions$HoverEventValueMode
+[04Jan2025 01:27:37.416] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting shadow/kyori/adventure/text/serializer/json/JSONOptions$ShowItemHoverDataMode
+[04Jan2025 01:27:37.425] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting shadow/kyori/adventure/text/event/ClickEvent$Action
+[04Jan2025 01:27:37.428] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting shadow/kyori/adventure/text/format/TextDecoration
+[04Jan2025 01:27:37.435] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting shadow/kyori/adventure/text/ComponentIteratorFlag
+[04Jan2025 01:27:37.452] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting shadow/kyori/adventure/util/TriState
+[04Jan2025 01:27:37.452] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting shadow/kyori/adventure/text/format/TextDecoration$State
+[04Jan2025 01:31:23.988] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/ConnectionType
+[04Jan2025 01:31:24.072] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/network/ServerLoginPacketListenerImpl$State
+[04Jan2025 01:31:31.194] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@59d7954b
+[04Jan2025 01:31:31.214] [Server thread/INFO] [jecalculation/]: Failed to load default records at /workspaces/TECNOLOGIA/servidor_minecraft/config/jecalculation/records.json.
+[04Jan2025 01:31:31.218] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: createbigcannons:big_cartridge_filling_deployer removed now.
+[04Jan2025 01:31:31.220] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: createbigcannons:cartridge_assembly_deployer removed now.
+[04Jan2025 01:31:31.230] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: createbigcannons:big_cartridge_filling_deployer removed now.
+[04Jan2025 01:31:31.232] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: createbigcannons:cartridge_assembly_deployer removed now.
+[04Jan2025 01:31:31.241] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sdim_a[/[0:0:0:0:0:0:0:1%0]:49140] logged in with entity id 256 at (-3269.8472897391034, 75.0, 2346.9808404295763)
+[04Jan2025 01:31:31.249] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/filters/VanillaPacketSplitter$RemoteCompatibility
+[04Jan2025 01:31:31.253] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/AnimationMonster/BossMonsters/Ancient_Ancient_Remnant_Entity$AttackMode
+[04Jan2025 01:31:31.260] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/AnimationMonster/BossMonsters/The_Leviathan/The_Leviathan_Entity$AttackMode
+[04Jan2025 01:31:31.262] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/Pet/The_Baby_Leviathan_Entity$AttackMode
+[04Jan2025 01:31:31.263] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/AnimationMonster/BossMonsters/Nameless_Sorcerer_Entity$SpellType
+[04Jan2025 01:31:31.265] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/entity/IafDragonAttacks$Air
+[04Jan2025 01:31:31.266] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/entity/IafDragonAttacks$Ground
+[04Jan2025 01:31:31.268] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/EntityMimicOctopus$MimicState
+[04Jan2025 01:31:31.274] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/InternalAnimationMonster/IABossMonsters/Ancient_Remnant/Ancient_Remnant_Entity$AttackMode
+[04Jan2025 01:31:31.276] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/Pet/Modern_Remnant_Entity$AttackMode
+[04Jan2025 01:31:31.277] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/entity/EntityAmphithere$FlightBehavior
+[04Jan2025 01:31:31.277] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/SpellcasterIllager$IllagerSpell
+[04Jan2025 01:31:31.304] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/misc/globe/GlobeTextureGenerator$Face
+[04Jan2025 01:31:31.304] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/misc/globe/GlobeTextureGenerator$TerrainType
+[04Jan2025 01:31:31.305] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/misc/globe/GlobeTextureGenerator$Biome
+[04Jan2025 01:31:31.305] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/misc/globe/GlobeTextureGenerator$Feature
+[04Jan2025 01:31:31.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sdim_a joined the game
+[04Jan2025 01:31:31.362] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ClientboundPlayerPositionPacket$RelativeArgument
+[04Jan2025 01:31:31.522] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d6d62a31-85b9-3bc0-8e69-375ce4483864
+[04Jan2025 01:31:31.554] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/trains/signal/EdgeGroupColor
+[04Jan2025 01:31:31.555] [Server thread/INFO] [Jade/]: Syncing config to Sdim_a (d6d62a31-85b9-3bc0-8e69-375ce4483864)
+[04Jan2025 01:31:31.662] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[04Jan2025 01:31:31.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sdim_a has made the advancement [Ice and Fire]
+[04Jan2025 01:31:31.677] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/corosus/watut/PlayerStatus$PlayerGuiState
+[04Jan2025 01:31:32.140] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SmallTunnelTurn$TurnDirection
+[04Jan2025 01:31:32.141] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/OreDeposit$OreType
+[04Jan2025 01:31:35.037] [Server thread/INFO] [ping-wheel/]: Channel update: Sdim_a -> default
+[04Jan2025 01:31:35.093] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/NetworkEvent$RegistrationChangeType
+[04Jan2025 01:31:38.216] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[04Jan2025 01:31:47.364] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/railwayteam/railways/util/DevCapeUtils
+[04Jan2025 01:32:05.355] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xaero/pac/common/server/claims/protection/ChunkProtection$InteractionTargetResult
+[04Jan2025 01:33:06.074] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
+[04Jan2025 01:33:08.586] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[04Jan2025 01:39:38.914] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
