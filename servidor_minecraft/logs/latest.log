@@ -4375,3 +4375,8 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [05Jan2025 02:58:48.294] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=55, y=-27, z=196}
 [05Jan2025 02:58:48.295] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=55, y=-27, z=193}
 [05Jan2025 03:00:19.130] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[05Jan2025 03:02:39.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: proparapvp was slain by Sdim_a
+[05Jan2025 03:03:14.607] [Server thread/INFO] [jecalculation/]: Failed to load default records at /workspaces/TECNOLOGIA/servidor_minecraft/config/jecalculation/records.json.
+[05Jan2025 03:03:50.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sdim_a was doomed to fall by Creeper
+[05Jan2025 03:08:14.609] [Server thread/INFO] [jecalculation/]: Failed to load default records at /workspaces/TECNOLOGIA/servidor_minecraft/config/jecalculation/records.json.
+[05Jan2025 03:11:44.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sdim_a fell from a high place
