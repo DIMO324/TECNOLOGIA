@@ -4380,3 +4380,8 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [05Jan2025 03:03:50.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sdim_a was doomed to fall by Creeper
 [05Jan2025 03:08:14.609] [Server thread/INFO] [jecalculation/]: Failed to load default records at /workspaces/TECNOLOGIA/servidor_minecraft/config/jecalculation/records.json.
 [05Jan2025 03:11:44.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sdim_a fell from a high place
+[05Jan2025 03:12:45.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sdim_a fell from a high place
+[05Jan2025 03:12:46.558] [Server thread/INFO] [jecalculation/]: Failed to load default records at /workspaces/TECNOLOGIA/servidor_minecraft/config/jecalculation/records.json.
+[05Jan2025 03:13:14.609] [Server thread/INFO] [jecalculation/]: Failed to load default records at /workspaces/TECNOLOGIA/servidor_minecraft/config/jecalculation/records.json.
+[05Jan2025 03:13:25.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sdim_a fell from a high place
+[05Jan2025 03:18:14.609] [Server thread/INFO] [jecalculation/]: Failed to load default records at /workspaces/TECNOLOGIA/servidor_minecraft/config/jecalculation/records.json.
