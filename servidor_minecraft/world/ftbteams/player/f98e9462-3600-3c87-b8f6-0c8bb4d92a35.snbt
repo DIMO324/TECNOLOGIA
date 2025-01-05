@@ -1,0 +1,17 @@
+{
+	id: "f98e9462-3600-3c87-b8f6-0c8bb4d92a35"
+	type: "player"
+	player_name: "proparapvp"
+	ranks: {
+		f98e9462-3600-3c87-b8f6-0c8bb4d92a35: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "proparapvp"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FDFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

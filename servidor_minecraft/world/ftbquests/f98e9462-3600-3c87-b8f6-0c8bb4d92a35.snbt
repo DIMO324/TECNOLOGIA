@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "f98e946236003c87b8f60c8bb4d92a35"
+	name: "proparapvp"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -84,6 +84,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-01-04 03:18:39 +0000"
+    },
+    "done": true
+  },
   "toms_storage:unlock_glowstone": {
     "criteria": {
       "inv_changed-glowstone": "2024-11-30 22:57:43 +0000"
@@ -210,6 +216,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-05 02:47:44 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2024-11-30 22:57:43 +0000"
@@ -224,6 +236,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-01-04 03:20:52 +0000",
       "minecraft:skeleton": "2024-11-30 23:48:16 +0000",
       "minecraft:spider": "2024-12-03 02:56:25 +0000",
       "minecraft:creeper": "2024-11-30 23:45:16 +0000",
@@ -244,6 +257,7 @@
       "cooked_porkchop": "2024-11-30 23:52:30 +0000",
       "cooked_mutton": "2024-11-30 23:24:54 +0000",
       "cooked_beef": "2024-11-30 23:22:14 +0000",
+      "baked_potato": "2025-01-04 03:08:35 +0000",
       "poisonous_potato": "2024-12-01 01:07:01 +0000",
       "bread": "2024-11-30 23:37:21 +0000",
       "rotten_flesh": "2024-11-30 23:48:41 +0000",
@@ -254,6 +268,12 @@
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "flint_knife": "2024-11-30 23:26:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_skillet": {
+    "criteria": {
+      "skillet": "2025-01-04 03:50:03 +0000"
     },
     "done": true
   },
