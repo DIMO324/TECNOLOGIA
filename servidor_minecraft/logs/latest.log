@@ -4387,3 +4387,7 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [05Jan2025 03:18:14.609] [Server thread/INFO] [jecalculation/]: Failed to load default records at /workspaces/TECNOLOGIA/servidor_minecraft/config/jecalculation/records.json.
 [05Jan2025 03:24:09.910] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/10444, l='ServerLevel[Survival tecnico 1.19.2]', x=-3259.94, y=72.94, z=2323.71] died, message: 'Unemployed was slain by Zombie'
 [05Jan2025 03:37:06.107] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: 10849 Ticks
+[05Jan2025 03:45:22.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sdim_a was slain by proparapvp
+[05Jan2025 03:48:14.616] [Server thread/INFO] [jecalculation/]: Failed to load default records at /workspaces/TECNOLOGIA/servidor_minecraft/config/jecalculation/records.json.
+[05Jan2025 03:48:33.757] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: 10248 Ticks
+[05Jan2025 03:52:09.560] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/18507, l='ServerLevel[Survival tecnico 1.19.2]', x=-2991.47, y=49.00, z=2342.79]
