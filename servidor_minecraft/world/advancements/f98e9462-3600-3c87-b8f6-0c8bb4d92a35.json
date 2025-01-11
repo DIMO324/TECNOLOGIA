@@ -103,7 +103,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:lukewarm_ocean": "2025-01-04 03:24:44 +0000"
+      "minecraft:lukewarm_ocean": "2025-01-04 03:24:44 +0000",
+      "minecraft:river": "2025-01-05 03:53:26 +0000"
     },
     "done": false
   },

@@ -128,6 +128,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:river": "2025-01-05 03:53:11 +0000",
       "minecraft:forest": "2024-11-30 22:57:44 +0000",
       "minecraft:meadow": "2024-11-30 22:58:06 +0000",
       "minecraft:plains": "2024-11-30 22:58:50 +0000"
@@ -422,6 +423,12 @@
   "butchercraft:skinningknife": {
     "criteria": {
       "skinningknife": "2024-12-01 01:00:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-05 03:53:58 +0000"
     },
     "done": true
   },
