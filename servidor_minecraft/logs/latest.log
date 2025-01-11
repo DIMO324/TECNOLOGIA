@@ -4319,3 +4319,6 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [11Jan2025 01:28:49.657] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d6d62a31-85b9-3bc0-8e69-375ce4483864
 [11Jan2025 01:28:49.662] [Server thread/INFO] [Jade/]: Syncing config to Sdim_a (d6d62a31-85b9-3bc0-8e69-375ce4483864)
 [11Jan2025 01:28:51.457] [Server thread/INFO] [ping-wheel/]: Channel update: Sdim_a -> default
+[11Jan2025 01:34:35.151] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sdim_a lost connection: Disconnected
+[11Jan2025 01:34:35.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sdim_a left the game
+[11Jan2025 01:34:35.152] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d6d62a31-85b9-3bc0-8e69-375ce4483864
